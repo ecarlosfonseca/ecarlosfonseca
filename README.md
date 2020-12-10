@@ -16,4 +16,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlosfonseca)](https://github.com/anuraghazra/github-readme-stats)
 
-Checkout some of my work at my [data analysis repo](https://github.com/ecarlosfonseca/Data-Analysis)
+Checkout some of my work at my [data analysis repo](https://github.com/ecarlosfonseca/Data-Analysis) and stay safe!
