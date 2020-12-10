@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at [DareData](https://daredata.engineering/home)
-- 🌱 I’m learning Model Deployment at [LDSSA] (https://www.lisbondatascience.org/)
+- 🌱 I’m learning Model Deployment at [LDSSA](https://www.lisbondatascience.org/)
 - 📫 How to reach me: :office: [LinkedIn](https://www.linkedin.com/in/carlos-fonseca-6b811630/)
 - :mechanic: My Background is Mechanical Engineering: Production Management
 - :portugal: I am portuguese
