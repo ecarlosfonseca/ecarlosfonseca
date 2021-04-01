@@ -10,7 +10,8 @@
 - ⚡ My main interests are:
   - :surfer: Surfing
   - :airplane: Traveling
-  - :books:Reading 
+  - :books: Reading 
+  - :cook: Cooking
   
   
 
