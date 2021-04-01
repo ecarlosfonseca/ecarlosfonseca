@@ -3,8 +3,8 @@
 - :computer: I’m currently working at [DareData](https://daredata.engineering/home)
 - :abacus: I just graduated in batch 4 [LDSSA](https://www.lisbondatascience.org/)
 - :postbox: How to reach me: <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:e-mail:[Profile](https://ecarlosfonseca.github.io/) <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:telephone_receiver: [LinkedIn](https://www.linkedin.com/in/carlos-fonseca-6b811630/)
+&nbsp;&nbsp;&nbsp;&nbsp;:e-mail:[Profile](https://ecarlosfonseca.github.io/) <p>
+&nbsp;&nbsp;&nbsp;&nbsp;:telephone_receiver:[LinkedIn](https://www.linkedin.com/in/carlos-fonseca-6b811630/)
 - :gear: My Background is Mechanical Engineering: Production Management
 - I am portuguese   :portugal:
 - ⚡ My main interests are:
