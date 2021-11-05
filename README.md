@@ -16,8 +16,9 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 
-[![Carlos Fonseca's github stats](https://github-readme-stats.vercel.app/api?username=ecarlosfonseca&count_private=true&show_icons=true&theme=radical&hide_rank=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Carlos Fonseca's github stats](https://github-readme-stats.vercel.app/api?username=ecarlosfonseca&count_private=true&show_icons=true&theme=dark&hide_rank=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlosfonseca)](https://github.com/anuraghazra/github-readme-stats)
 
