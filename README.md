@@ -15,8 +15,8 @@
   
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
-[![Carlos Fonseca's github stats](https://github-readme-stats.vercel.app/api?username=ecarlosfonseca&count_private=true&show_icons=true&theme=dark&hide_rank=false&count_private=true)]
+![Carlos Fonseca's github stats](https://github-readme-stats.vercel.app/api?username=ecarlosfonseca&count_private=true&show_icons=true&theme=dark&hide_rank=false&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlosfonseca&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlosfonseca&layout=compact)
 
 Checkout some of my work at my [data analysis repo](https://github.com/ecarlosfonseca/Data-Analysis) and stay safe!
