@@ -13,7 +13,7 @@
   - :books: Reading 
   - :cook: Cooking
   
-[![https://komarev.com/ghpvc/?username=ecarlosfonseca&color=blue)]]((https://github.com/ecarlosfonseca)
+![](https://komarev.com/ghpvc/?username=ecarlosfonseca&color=blue)
 
 [![Carlos Fonseca's github stats](https://github-readme-stats.vercel.app/api?username=ecarlosfonseca&count_private=true&show_icons=true&theme=dark&hide_rank=false&count_private=true)](https://github.com/ecarlosfonseca)
 
