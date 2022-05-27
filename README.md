@@ -4,7 +4,7 @@
 - :abacus: I graduated in batch 4 [LDSSA](https://www.lisbondatascience.org/)
 - :postbox: How to reach me:
   - :e-mail: [Profile](https://ecarlosfonseca.github.io/)
-  - :telephone_receiver: [LinkedIn](https://www.linkedin.com/in/carlos-fonseca-6b811630/)
+  - :telephone_receiver: [LinkedIn](https://www.linkedin.com/in/ecarlosfonseca/)
 - :gear: My Background is Mechanical Engineering: Production Management
 - I am portuguese   :portugal:
 - ⚡ My main interests are:
