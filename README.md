@@ -16,12 +16,14 @@
 - :postbox: How to reach me:
   - :e-mail: [Profile](https://ecarlosfonseca.github.io/)
   - :telephone_receiver: [LinkedIn](https://www.linkedin.com/in/ecarlosfonseca/)
-  
-![](https://komarev.com/ghpvc/?username=ecarlosfonseca&color=blue)
+
+## Profile Stats
 
 ![Carlos Fonseca's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecarlosfonseca&hide=prs,issues,contribs&count_private=true)
 
 ![Carlos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlosfonseca&langs_count=5)
+
+![](https://komarev.com/ghpvc/?username=ecarlosfonseca&color=blue)
 
 ## My Experience
 ![My Skills](https://skillicons.dev/icons?i=py,vscode,gcp,git,bash,postgres,aws,docker,heroku)
