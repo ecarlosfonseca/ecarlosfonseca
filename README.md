@@ -12,13 +12,13 @@
   - :airplane: Traveling
   - :books: Reading 
   - :cook: Cooking
-
-## My Experience
-![My Skills](https://skillicons.dev/icons?i=py,vscode,gcp,github,gitlab,bash,postgres)
-<!-- [..](https://github.com/tandpfun/skill-icons#icons-list) -->
   
 ![](https://komarev.com/ghpvc/?username=ecarlosfonseca&color=blue)
 
 ![Carlos Fonseca's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecarlosfonseca&hide=prs,issues,contribs&count_private=true)
 
 ![Carlos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlosfonseca&langs_count=5)
+
+## My Experience
+![My Skills](https://skillicons.dev/icons?i=py,vscode,gcp,github,gitlab,bash,postgres,aws,docker)
+<!-- Adding icons: (https://github.com/tandpfun/skill-icons#icons-list) -->
