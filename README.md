@@ -17,4 +17,4 @@
 
 ![Carlos Fonseca's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecarlosfonseca&hide=prs,contribs,issues&count_private=true)
 
-![Carlos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlosfonseca&langs_count=3)
+![Carlos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlosfonseca&langs_count=5)
