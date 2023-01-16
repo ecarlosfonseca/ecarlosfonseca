@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="1100" height="200"/>
 </div>
 
-### Hi there 👋
+## Hi there 👋
 
 - :computer: I’m currently working at [HeiQ](https://heiq.com/services/)
 - :abacus: I graduated in batch 4 [LDSSA](https://www.lisbondatascience.org/)
