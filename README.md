@@ -19,4 +19,5 @@
 
 ![Carlos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlosfonseca&langs_count=5)
 
-![My Skills](https://skillicons.dev/icons?i=py,vscode,gcp,github,bash,postgres)
+![My Skills](https://skillicons.dev/icons?i=py,vscode,gcp,github,gitlab,bash,postgres)
+[//]: <> https://github.com/tandpfun/skill-icons#icons-list
