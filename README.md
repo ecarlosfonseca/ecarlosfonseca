@@ -14,7 +14,3 @@
   - :cook: Cooking
   
 ![](https://komarev.com/ghpvc/?username=ecarlosfonseca&color=blue)
-
-[![Carlos Fonseca's github stats](https://github-readme-stats.vercel.app/api?username=ecarlosfonseca&count_private=true&show_icons=true&theme=dark&hide_rank=false&count_private=true)](https://github.com/ecarlosfonseca)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlosfonseca&layout=compact)](https://github.com/ecarlosfonseca)
