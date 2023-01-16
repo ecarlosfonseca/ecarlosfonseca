@@ -6,9 +6,6 @@
 
 - :computer: I’m currently working at [HeiQ](https://heiq.com/services/) as a data scientist/analyst.
 - :abacus: I graduated in batch 4 [LDSSA](https://www.lisbondatascience.org/) in data science.
-- :postbox: How to reach me:
-  - :e-mail: [Profile](https://ecarlosfonseca.github.io/)
-  - :telephone_receiver: [LinkedIn](https://www.linkedin.com/in/ecarlosfonseca/)
 - :gear: My Background is Mechanical Engineering: Production Management
 - I am portuguese   :portugal:
 - ⚡ My main interests are:
@@ -16,6 +13,9 @@
   - :airplane: Traveling
   - :books: Reading 
   - :cook: Cooking
+- :postbox: How to reach me:
+  - :e-mail: [Profile](https://ecarlosfonseca.github.io/)
+  - :telephone_receiver: [LinkedIn](https://www.linkedin.com/in/ecarlosfonseca/)
   
 ![](https://komarev.com/ghpvc/?username=ecarlosfonseca&color=blue)
 
