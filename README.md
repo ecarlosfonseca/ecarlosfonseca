@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/l4JyNNqiVzBMbDOVO/giphy.gif)" width="600" height="300"/>
+</div>
+
 ### Hi there 👋
 
 - :computer: I’m currently working at [HeiQ](https://heiq.com/services/)
