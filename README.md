@@ -18,3 +18,5 @@
 ![Carlos Fonseca's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecarlosfonseca&hide=prs,issues,contribs&count_private=true)
 
 ![Carlos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlosfonseca&langs_count=5)
+
+![[My Skills](https://skillicons.dev/icons?i=py,vscode,gcp,github,bash,postgres)](https://skillicons.dev)
