@@ -18,8 +18,7 @@
   - :telephone_receiver: [LinkedIn](https://www.linkedin.com/in/ecarlosfonseca/)
 
 ## GitHub Stats
-
-![Carlos Fonseca's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecarlosfonseca&hide=prs,issues,contribs&count_private=true?theme=solarized-light)
+![Carlos Fonseca's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/ecarlosfonseca?cardType=level)
 
 ![Carlos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlosfonseca&langs_count=5)
 
