@@ -17,7 +17,7 @@
   - :e-mail: [Profile](https://ecarlosfonseca.github.io/)
   - :telephone_receiver: [LinkedIn](https://www.linkedin.com/in/ecarlosfonseca/)
 
-## Profile Stats
+## GitHub Stats
 
 ![Carlos Fonseca's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecarlosfonseca&hide=prs,issues,contribs&count_private=true)
 
