@@ -18,12 +18,10 @@
   - :telephone_receiver: [LinkedIn](https://www.linkedin.com/in/ecarlosfonseca/)
 
 ## GitHub Stats
-![Carlos Fonseca's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/ecarlosfonseca?cardType=level)
+![Carlos Fonseca's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/ecarlosfonseca?cardType=level&theme=prussian)
 
 ![Carlos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlosfonseca&langs_count=5)
-
-![](https://komarev.com/ghpvc/?username=ecarlosfonseca&color=blue)
-
+<!-- ![](https://komarev.com/ghpvc/?username=ecarlosfonseca&color=blue) -->
 ## My Experience
 ![My Skills](https://skillicons.dev/icons?i=py,vscode,gcp,git,bash,postgres,aws,docker,heroku)
 <!-- Adding icons: (https://github.com/tandpfun/skill-icons#icons-list) -->
