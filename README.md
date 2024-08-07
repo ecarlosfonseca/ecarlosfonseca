@@ -24,7 +24,7 @@
 
 <!-- ![Carlos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarlosfonseca&langs_count=5) -->
 ## My Experience
-![My Skills](https://skillicons.dev/icons?i=py,vscode,gcp,git,bash,postgres,aws,docker,heroku)
+![My Skills](https://skillicons.dev/icons?i=py,vscode,gcp,git,bash,postgres,aws,docker,heroku,snowflake,dbt)
 <!-- Adding icons: (https://github.com/tandpfun/skill-icons#icons-list) -->
 
 ## What I want to learn and improve
